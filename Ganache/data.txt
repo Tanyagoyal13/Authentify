@@ -1,0 +1,26 @@
+2_deploy_contract.js
+====================
+
+   Deploying 'ProductRegistryNew'
+   ------------------------------
+   > transaction hash:    0xbcf1bcbe63fe29cd7da6deaa9f2221cd6e6ed4d9824a29ae9d345cadcdca33a0
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x6c6809F7ab413A363234ab70a736555A731899c9
+   > block number:        20
+   > block timestamp:     1682781239
+   > account:             0x909C82787B1E3ADF7570B6a61b65b2B257Bc22Bd
+   > balance:             99.991900852188020012
+   > gas used:            840173 (0xcd1ed)
+   > gas price:           2.575142496 gwei
+   > value sent:          0 ETH
+   > total cost:          0.002163565196291808 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.002163565196291808 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.002163565196291808 ETH
+
